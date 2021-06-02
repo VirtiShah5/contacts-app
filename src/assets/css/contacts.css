@@ -1,0 +1,9 @@
+.card-position {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.box-size {
+  margin-top: 5%;
+  width: 50%;
+}
